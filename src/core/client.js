@@ -7,7 +7,11 @@ const BASE_URL = process.env.SIGMINCETUR_BASE_URL || 'https://sigmincetur.mincet
 async function get(path) {
     const url = `${BASE_URL}${path}`;
     try {
-        const response = await fetch(url);
+        const response = await fetch(url, {
+            headers: {
+                'User-Agent': 'SIGMINCETUR-Scraper/2.0 (+https://github.com/MeloDev2111/SIGMINCETUR-Scraper)'
+            }
+        });
         if (!response.ok) {
             throw new Error(`GET ${url} failed: ${response.status} ${response.statusText}`);
         }
