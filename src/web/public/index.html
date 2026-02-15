@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIGMINCETUR Scraper</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <h1>SIGMINCETUR Scraper</h1>
+
+            <div class="form-group">
+                <label for="region-select">Region</label>
+                <select id="region-select">
+                    <option value="">-- Select Region --</option>
+                    <!-- Populated by JS -->
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="province-input">Province (Optional)</label>
+                <input type="text" id="province-input" placeholder="e.g. Santa">
+            </div>
+
+            <div class="form-group checkbox-group">
+                <input type="checkbox" id="upload-check">
+                <label for="upload-check" style="margin:0; font-weight:normal;">Upload to TuriApp (Local
+                    Service)</label>
+            </div>
+
+            <button id="scrape-btn">Start Scraper</button>
+            <div id="download-container"></div>
+        </div>
+
+        <div class="card" id="output-area">
+            <h3>Logs</h3>
+            <div id="log-content"></div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+{
+  "name": "sigmincetur-scraper",
+  "version": "1.0.0",
+  "description": "Modern SIGMINCETUR Scraper with CLI, Web Dashboard, and Local App integration.",
+  "main": "src/cli/index.js",
+  "scripts": {
+    "start": "node src/web/server.js",
+    "scrape": "node src/cli/index.js",
+    "scrape:help": "node src/cli/index.js --help",
+    "changelog": "auto-changelog -p",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeloDev2111/SIGMINCETUR-Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeloDev2111/SIGMINCETUR-Scraper/issues"
+  },
+  "homepage": "https://github.com/MeloDev2111/SIGMINCETUR-Scraper#readme",
+  "dependencies": {
+    "auto-changelog": "^2.5.0",
+    "express": "^5.2.1",
+    "form-data": "^4.0.5",
+    "node-fetch": "^3.3.2",
+    "release-it": "^19.2.4",
+    "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^10.0.5"
+  }
+}
