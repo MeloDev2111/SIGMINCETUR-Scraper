@@ -21,6 +21,16 @@ A robust Node.js tool to scrape and process tourism data from **SIGMINCETUR**. T
     npm install
     ```
 
+## Configuration
+1.  Copy the example environment file:
+    ```bash
+    cp .env.example .env
+    ```
+2.  Adjust the settings in `.env` if needed:
+    - `PORT`: Web server port (default: 3000).
+    - `TURI_APP_URL`: URL for the local TuriApp service (default: http://127.0.0.1:5000/files).
+    - `SIGMINCETUR_BASE_URL`: Base URL for the SIGMINCETUR API.
+
 ## Usage
 
 ### 1. Web Dashboard (Recommended)
@@ -68,6 +78,12 @@ The project is organized into modular components:
     - `uploader.js`: File upload handler.
 - **`src/cli/`**: CLI entry point (`yargs`).
 - **`src/web/`**: API Server (`express`) and Frontend assets.
+
+## Testing
+Run the unit test suite:
+```bash
+npm test
+```
 
 ## Development & Release
 

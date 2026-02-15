@@ -1,5 +1,5 @@
 // using native fetch (Node 18+)
-const BASE_URL = 'https://sigmincetur.mincetur.gob.pe/turismo';
+const BASE_URL = process.env.SIGMINCETUR_BASE_URL || 'https://sigmincetur.mincetur.gob.pe/turismo';
 
 /**
  * Helper to make GET requests

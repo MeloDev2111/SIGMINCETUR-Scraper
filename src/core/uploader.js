@@ -1,7 +1,9 @@
-// using native fetch (Node 18+)const FormData = require('form-data');
+// using native fetch (Node 18+)
+const FormData = require('form-data');
 
 async function uploadToTuriApp(data) {
-    const url = 'http://127.0.0.1:5000/files';
+    const url = process.env.TURI_APP_URL || 'http://127.0.0.1:5000/files';
+    console.log(`Uploading to: ${url}`);
 
     // Convert data to JSON string
     const dataStr = JSON.stringify(data);

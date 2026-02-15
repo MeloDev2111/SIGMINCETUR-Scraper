@@ -1,0 +1,2109 @@
+[
+  {
+    "nombre": "Sitio Arqueológico De Tumshukaiko",
+    "provincia": "Huaylas",
+    "ubigeo": "021201",
+    "longitud": -77.81460725396727,
+    "latitud": -9.037916222714118
+  },
+  {
+    "nombre": "Zona Arqueológica Monumental Cerro Sechín",
+    "provincia": "Casma",
+    "ubigeo": "020801",
+    "longitud": -78.26133550793458,
+    "latitud": -9.483194019804339
+  },
+  {
+    "nombre": "Museo Regional De Casma Max Uhle",
+    "provincia": "Casma",
+    "ubigeo": "020801",
+    "longitud": -78.25786299999999,
+    "latitud": -9.479244
+  },
+  {
+    "nombre": "Puente Antonio Raimondi",
+    "provincia": "Sihuas",
+    "ubigeo": "021907",
+    "longitud": -77.45854542593011,
+    "latitud": -8.342064296455263
+  },
+  {
+    "nombre": "Playa Tuquillo",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.19325000000003,
+    "latitud": -10.0175
+  },
+  {
+    "nombre": "Monumento Arqueológico Intangible Waullac ",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.51372426748276,
+    "latitud": -9.524472548419219
+  },
+  {
+    "nombre": "Laguna Parón",
+    "provincia": "Huaylas",
+    "ubigeo": "021201",
+    "longitud": -77.67111266137691,
+    "latitud": -8.994163305480877
+  },
+  {
+    "nombre": "Cañón Del Pato",
+    "provincia": "Huaylas",
+    "ubigeo": "021202",
+    "longitud": -77.82891276732913,
+    "latitud": -8.862056937036709
+  },
+  {
+    "nombre": "Quebrada Santa Cruz",
+    "provincia": "Huaylas",
+    "ubigeo": "021208",
+    "longitud": -77.68332865008547,
+    "latitud": -8.939295100314405
+  },
+  {
+    "nombre": "Quebrada Los Cedros",
+    "provincia": "Huaylas",
+    "ubigeo": "021208",
+    "longitud": -77.72805555555556,
+    "latitud": -8.828055555555556
+  },
+  {
+    "nombre": "Carrera A La Cinta",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Nevado Alpamayo",
+    "provincia": "Huaylas",
+    "ubigeo": "021208",
+    "longitud": -77.6522531530952,
+    "latitud": -8.879315842048872
+  },
+  {
+    "nombre": "Gruta De San Patricio",
+    "provincia": "Recuay",
+    "ubigeo": "021701",
+    "longitud": -77.45734329447748,
+    "latitud": -9.72369817257239
+  },
+  {
+    "nombre": "Nevado Pastoruri",
+    "provincia": "Recuay",
+    "ubigeo": "021702",
+    "longitud": -77.18991961111453,
+    "latitud": -9.930295619996315
+  },
+  {
+    "nombre": "Cerro Pan De Azucar",
+    "provincia": "Yungay",
+    "ubigeo": "022001",
+    "longitud": -77.75327503681183,
+    "latitud": -9.126297315321228
+  },
+  {
+    "nombre": "Laguna Chinancocha - Llanganuco",
+    "provincia": "Yungay",
+    "ubigeo": "022001",
+    "longitud": -77.64601411772155,
+    "latitud": -9.075358237663016
+  },
+  {
+    "nombre": "Laguna Patococha",
+    "provincia": "Recuay",
+    "ubigeo": "021702",
+    "longitud": -77.309036,
+    "latitud": -9.889675
+  },
+  {
+    "nombre": "Nevado Huascarán",
+    "provincia": "Yungay",
+    "ubigeo": "022001",
+    "longitud": -77.60647660176777,
+    "latitud": -9.12161853861732
+  },
+  {
+    "nombre": "Campo Santo De Yungay",
+    "provincia": "Yungay",
+    "ubigeo": "022001",
+    "longitud": -77.73658484984588,
+    "latitud": -9.150390031961972
+  },
+  {
+    "nombre": "Casa De La Cultura De La Provincia De Aija Santiago Antúnez De Mayolo",
+    "provincia": "Aija",
+    "ubigeo": "020201",
+    "longitud": -77.60988399999997,
+    "latitud": -9.780535
+  },
+  {
+    "nombre": "Monumento Arqueológico Chavín De Huantar",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.17763140797615,
+    "latitud": -9.593837429738326
+  },
+  {
+    "nombre": "Laguna Jahuacocha",
+    "provincia": "Bolognesi",
+    "ubigeo": "020513",
+    "longitud": -76.95511785880964,
+    "latitud": -10.23830481725482
+  },
+  {
+    "nombre": "Laguna Churup",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.428987,
+    "latitud": -9.484431
+  },
+  {
+    "nombre": "Laguna Llaca",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.444233,
+    "latitud": -9.435807
+  },
+  {
+    "nombre": "Danza Las Pallas De Corongo",
+    "provincia": "Corongo",
+    "ubigeo": "020901",
+    "longitud": -77.8968,
+    "latitud": -8.56854
+  },
+  {
+    "nombre": "Nevado Churup",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.41772526991105,
+    "latitud": -9.471322610028754
+  },
+  {
+    "nombre": "Santuario Señor De La Soledad",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.52277135848999,
+    "latitud": -9.532066933074702
+  },
+  {
+    "nombre": "Calle José Olaya - Huaraz",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.51981994477461,
+    "latitud": -9.52834396985447
+  },
+  {
+    "nombre": "Baños Termales De Monterrey",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.53541260957718,
+    "latitud": -9.46797360453506
+  },
+  {
+    "nombre": "Monumento Arquológico De Willkawain",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.5114325852451,
+    "latitud": -9.483288585859095
+  },
+  {
+    "nombre": "Laguna Cullicocha",
+    "provincia": "Huaylas",
+    "ubigeo": "021208",
+    "longitud": -77.74960041046154,
+    "latitud": -8.865142949971823
+  },
+  {
+    "nombre": "Huaridanza",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Punkuri Santuario Costeño",
+    "provincia": "Santa",
+    "ubigeo": "021806",
+    "longitud": -78.3043493571472,
+    "latitud": -9.155243552964821
+  },
+  {
+    "nombre": "Playa Tortugas",
+    "provincia": "Casma",
+    "ubigeo": "020803",
+    "longitud": -78.41055499999999,
+    "latitud": -9.371015
+  },
+  {
+    "nombre": "Museo Arqueológico De Áncash Augusto Soriano Infante",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.52937090475116,
+    "latitud": -9.530301314284054
+  },
+  {
+    "nombre": "Balneario Termomedicinal Municipal De Pomabamba",
+    "provincia": "Pomabamba",
+    "ubigeo": "021601",
+    "longitud": -77.45917603194566,
+    "latitud": -8.825653892933994
+  },
+  {
+    "nombre": "Sitio Arqueológico Pumacayán - Huaraz",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.52315900000002,
+    "latitud": -9.529976
+  },
+  {
+    "nombre": "Fiesta Patronal De Santa Rosa De Lima - Chiquian",
+    "provincia": "Bolognesi",
+    "ubigeo": "020501",
+    "longitud": -77.1588,
+    "latitud": -10.1519
+  },
+  {
+    "nombre": "Rocódromo De Los Olivos - Independencia",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.54211169663813,
+    "latitud": -9.527818709902443
+  },
+  {
+    "nombre": "Corpus Danza",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Sitio Arqueológico Yayno",
+    "provincia": "Pomabamba",
+    "ubigeo": "021602",
+    "longitud": -77.45577544238422,
+    "latitud": -8.884271238398908
+  },
+  {
+    "nombre": "Laguna Awashcocha",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -77.02518258147855,
+    "latitud": -9.938063423648146
+  },
+  {
+    "nombre": "Catarata Maria Jiray",
+    "provincia": "Huari",
+    "ubigeo": "021001",
+    "longitud": -77.20354082209013,
+    "latitud": -9.341066841056257
+  },
+  {
+    "nombre": "Fiesta Patronal De La Virgen De Guadalupe - Tocash",
+    "provincia": "Huaylas",
+    "ubigeo": "021207",
+    "longitud": -77.8025,
+    "latitud": -9.11168
+  },
+  {
+    "nombre": "Cascada De Usgor",
+    "provincia": "Bolognesi",
+    "ubigeo": "020501",
+    "longitud": -77.16466210473271,
+    "latitud": -10.138115711999577
+  },
+  {
+    "nombre": "Ciudadela De Pañamarca",
+    "provincia": "Santa",
+    "ubigeo": "021806",
+    "longitud": -78.3753490447998,
+    "latitud": -9.20520127054815
+  },
+  {
+    "nombre": "Playa La Gramita",
+    "provincia": "Casma",
+    "ubigeo": "020801",
+    "longitud": -78.29364166666664,
+    "latitud": -9.715202777777778
+  },
+  {
+    "nombre": "Danza Quillalla",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Cerro De Huancash",
+    "provincia": "Mariscal Luzuriaga",
+    "ubigeo": "021301",
+    "longitud": -77.35287956887339,
+    "latitud": -8.880190023969279
+  },
+  {
+    "nombre": "Semana Santa Huaracina",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.5334,
+    "latitud": -9.52745
+  },
+  {
+    "nombre": "Nevado Urus - Parque Nacional Huascarán ",
+    "provincia": "Huaraz",
+    "ubigeo": "020112",
+    "longitud": -77.41080522192385,
+    "latitud": -9.33050575092815
+  },
+  {
+    "nombre": "Baños Termales De Chancos",
+    "provincia": "Carhuaz",
+    "ubigeo": "020606",
+    "longitud": -77.57493361830711,
+    "latitud": -9.31946595607932
+  },
+  {
+    "nombre": "Cueva De Guitarrero",
+    "provincia": "Yungay",
+    "ubigeo": "022007",
+    "longitud": -77.710038,
+    "latitud": -9.200276
+  },
+  {
+    "nombre": "Nevado Pirámide De Garcilaso",
+    "provincia": "Huaylas",
+    "ubigeo": "021201",
+    "longitud": -77.62061160447354,
+    "latitud": -8.975825530320352
+  },
+  {
+    "nombre": "Nevado Vallunaraju",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.46089985781968,
+    "latitud": -9.423786879073363
+  },
+  {
+    "nombre": "Nevado Ranrapalca",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.41666800000002,
+    "latitud": -9.411047
+  },
+  {
+    "nombre": "Tuktu Picante",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Nevado Ishinca",
+    "provincia": "Huaraz",
+    "ubigeo": "020112",
+    "longitud": -77.40360277777779,
+    "latitud": -9.389230555555555
+  },
+  {
+    "nombre": "Danza Los Shajshas De Corongo",
+    "provincia": "Corongo",
+    "ubigeo": "020901",
+    "longitud": -77.8968,
+    "latitud": -8.56854
+  },
+  {
+    "nombre": "Nevado Pisco",
+    "provincia": "Yungay",
+    "ubigeo": "022001",
+    "longitud": -77.62986594567302,
+    "latitud": -8.990801748213924
+  },
+  {
+    "nombre": "Fiesta Patronal El Agua Y San Pedro",
+    "provincia": "Corongo",
+    "ubigeo": "020901",
+    "longitud": -77.8968,
+    "latitud": -8.56854
+  },
+  {
+    "nombre": "Quebrada Cojup",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.40606295395683,
+    "latitud": -9.436572688787798
+  },
+  {
+    "nombre": "Quebrada Llaca",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.45220739853951,
+    "latitud": -9.444795614989077
+  },
+  {
+    "nombre": "Laguna Reparin",
+    "provincia": "Huari",
+    "ubigeo": "021003",
+    "longitud": -77.15344729999998,
+    "latitud": -9.2989533
+  },
+  {
+    "nombre": "Corpus Cristi - Chacas",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.3695,
+    "latitud": -9.16247
+  },
+  {
+    "nombre": "Nevado San Juan - Parque Nacional Huascarán ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.33909741571256,
+    "latitud": -9.472733837685041
+  },
+  {
+    "nombre": "Nevado Ocshapalca",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.43564273308287,
+    "latitud": -9.408546491323387
+  },
+  {
+    "nombre": "Laguna Purhuay",
+    "provincia": "Huari",
+    "ubigeo": "021001",
+    "longitud": -77.20668599999999,
+    "latitud": -9.313778
+  },
+  {
+    "nombre": "Baños Termales De Chavín",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.17750936746597,
+    "latitud": -9.599675912275497
+  },
+  {
+    "nombre": "Danza Duende, Pallas Y Auqas",
+    "provincia": "Antonio Raymondi",
+    "ubigeo": "020301",
+    "longitud": -77.0184,
+    "latitud": -9.10077
+  },
+  {
+    "nombre": "Quebrada Carhuascancha",
+    "provincia": "Huari",
+    "ubigeo": "021008",
+    "longitud": -77.26899700000001,
+    "latitud": -9.476487
+  },
+  {
+    "nombre": "Laguna Canchiscocha",
+    "provincia": "Mariscal Luzuriaga",
+    "ubigeo": "021304",
+    "longitud": -77.33248377045884,
+    "latitud": -8.790557207770588
+  },
+  {
+    "nombre": "Puchero De San Nicolás",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Wanka Danza",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.1575,
+    "latitud": -9.52524
+  },
+  {
+    "nombre": "Mirador Natural De Portachuelo - Llanganuco",
+    "provincia": "Yungay",
+    "ubigeo": "022001",
+    "longitud": -77.59741901724874,
+    "latitud": -9.043325681014075
+  },
+  {
+    "nombre": "Carnaval Huaracino",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.5334,
+    "latitud": -9.52745
+  },
+  {
+    "nombre": "Danza Paso Huanquilla",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020701",
+    "longitud": -77.3332,
+    "latitud": -9.09342
+  },
+  {
+    "nombre": "Yuyo Pichu",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Catarata Huambavalle",
+    "provincia": "Pallasca",
+    "ubigeo": "021509",
+    "longitud": -77.87064112722874,
+    "latitud": -8.186630510099683
+  },
+  {
+    "nombre": "Parque Nacional Huascarán",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.42882536898834,
+    "latitud": -9.486262109997167
+  },
+  {
+    "nombre": "Domingo De Cuasimodo - Carhuaz",
+    "provincia": "Carhuaz",
+    "ubigeo": "020601",
+    "longitud": -77.1423,
+    "latitud": -11.8989
+  },
+  {
+    "nombre": "Laguna 69",
+    "provincia": "Yungay",
+    "ubigeo": "022001",
+    "longitud": -77.61209667724609,
+    "latitud": -9.010526314595705
+  },
+  {
+    "nombre": "Cordillera  Huayhuash",
+    "provincia": "Bolognesi",
+    "ubigeo": "020513",
+    "longitud": -76.89794491528323,
+    "latitud": -10.299719215516285
+  },
+  {
+    "nombre": "Sitio Arqueológico De Honcopampa",
+    "provincia": "Carhuaz",
+    "ubigeo": "020608",
+    "longitud": -77.516156,
+    "latitud": -9.359295
+  },
+  {
+    "nombre": "Puyas De Winchus - Pueblo Libre",
+    "provincia": "Huaylas",
+    "ubigeo": "021207",
+    "longitud": -77.8725103227539,
+    "latitud": -9.110867983286633
+  },
+  {
+    "nombre": "Isla Blanca",
+    "provincia": "Santa",
+    "ubigeo": "021801",
+    "longitud": -78.62142599999999,
+    "latitud": -9.099893
+  },
+  {
+    "nombre": "Mirador De Rataquenua",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.51501200000001,
+    "latitud": -9.535753
+  },
+  {
+    "nombre": "Pueblo Histórico De Chavín De Huantar",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.177908,
+    "latitud": -9.588662
+  },
+  {
+    "nombre": "Laguna Pelagatos",
+    "provincia": "Pallasca",
+    "ubigeo": "021509",
+    "longitud": -77.79781341236563,
+    "latitud": -8.178838071036937
+  },
+  {
+    "nombre": "Sitio Arqueológico De Huachaper",
+    "provincia": "Pallasca",
+    "ubigeo": "021509",
+    "longitud": -77.88377389848557,
+    "latitud": -8.213085845615353
+  },
+  {
+    "nombre": "Puma Danza",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Mirador Catucancha",
+    "provincia": "Huaylas",
+    "ubigeo": "021207",
+    "longitud": -77.79926827642652,
+    "latitud": -9.09710745488922
+  },
+  {
+    "nombre": "Complejo Arqueastronómico Chankillo",
+    "provincia": "Casma",
+    "ubigeo": "020801",
+    "longitud": -78.22765931078595,
+    "latitud": -9.5635179841461
+  },
+  {
+    "nombre": "Quebrada Parón",
+    "provincia": "Huaylas",
+    "ubigeo": "021201",
+    "longitud": -77.70062585160997,
+    "latitud": -9.012441920159477
+  },
+  {
+    "nombre": "Complejo Arqueológico Ichic Willcawain",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.50704999999999,
+    "latitud": -9.48768
+  },
+  {
+    "nombre": "Bosque De Piedras Hatun Machay",
+    "provincia": "Recuay",
+    "ubigeo": "021707",
+    "longitud": -77.33999496289063,
+    "latitud": -10.101638038093398
+  },
+  {
+    "nombre": "Danza Kiyaya",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.3695,
+    "latitud": -9.16247
+  },
+  {
+    "nombre": "Danza Los Negritos De Chiquián",
+    "provincia": "Bolognesi",
+    "ubigeo": "020501",
+    "longitud": -77.1588,
+    "latitud": -10.1519
+  },
+  {
+    "nombre": "Wallpa Danza",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020701",
+    "longitud": -77.3332,
+    "latitud": -9.09342
+  },
+  {
+    "nombre": "Nevado Yerupaja",
+    "provincia": "Bolognesi",
+    "ubigeo": "020513",
+    "longitud": -76.90567016601562,
+    "latitud": -10.267627361917446
+  },
+  {
+    "nombre": "Fósil Huellas De Dinosaurios",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -77.04937867165671,
+    "latitud": -9.80341265794517
+  },
+  {
+    "nombre": "Danza Los Huanquillas (Wankillas) De Pariacaca",
+    "provincia": "Carhuaz",
+    "ubigeo": "020601",
+    "longitud": -77.6472,
+    "latitud": -9.28075
+  },
+  {
+    "nombre": "Manantial Pumapashimin",
+    "provincia": "Recuay",
+    "ubigeo": "021702",
+    "longitud": -77.270193,
+    "latitud": -9.879232
+  },
+  {
+    "nombre": "Mirador Natural Shayhua",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.15159468116762,
+    "latitud": -9.521593028734499
+  },
+  {
+    "nombre": "Danza Los Negritos De Plata Ó Qellee Negro",
+    "provincia": "Aija",
+    "ubigeo": "020201",
+    "longitud": -77.6115,
+    "latitud": -9.78212
+  },
+  {
+    "nombre": "Pueblo De Recuay",
+    "provincia": "Recuay",
+    "ubigeo": "021701",
+    "longitud": -77.45630360000001,
+    "latitud": -9.722118199999999
+  },
+  {
+    "nombre": "Quebrada Quilcayhuanca",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.416159,
+    "latitud": -9.497661
+  },
+  {
+    "nombre": "Museo De Arqueología E Historia Natural De Yungay-Ranrahirca",
+    "provincia": "Yungay",
+    "ubigeo": "022006",
+    "longitud": -77.7222878108368,
+    "latitud": -9.173025815378134
+  },
+  {
+    "nombre": "Comunidad De Vicos",
+    "provincia": "Carhuaz",
+    "ubigeo": "020606",
+    "longitud": -77.55332440137863,
+    "latitud": -9.32846034827403
+  },
+  {
+    "nombre": "Danza Anti",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Danza Los Shacshas De Huaraz",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.5334,
+    "latitud": -9.52745
+  },
+  {
+    "nombre": "Fiesta De Carnavales San Nicolas",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020702",
+    "longitud": -77.1843,
+    "latitud": -8.9769
+  },
+  {
+    "nombre": "Santuario De Nuestra Señora De Asunción De Chacas (Mama Ashu)",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.3659835,
+    "latitud": -9.1630088
+  },
+  {
+    "nombre": "Nevado Palcaraju",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.37091499999997,
+    "latitud": -9.368323
+  },
+  {
+    "nombre": "Centro Recreacional Vivero Forestal De Chimbote",
+    "provincia": "Santa",
+    "ubigeo": "021801",
+    "longitud": -78.5906982421875,
+    "latitud": -9.05938023710703
+  },
+  {
+    "nombre": "Laguna De Conococha",
+    "provincia": "Recuay",
+    "ubigeo": "021702",
+    "longitud": -78.02036936664277,
+    "latitud": -8.509750398227121
+  },
+  {
+    "nombre": "Quebrada Rajucolta ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.3714151781921,
+    "latitud": -9.536983297994954
+  },
+  {
+    "nombre": "Quebrada Honda",
+    "provincia": "Carhuaz",
+    "ubigeo": "020606",
+    "longitud": -77.44387153991698,
+    "latitud": -9.310594033984037
+  },
+  {
+    "nombre": "Playa Princesa",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.20063389813279,
+    "latitud": -9.981423728536397
+  },
+  {
+    "nombre": "Pampas De Shonquilpampa",
+    "provincia": "Carhuaz",
+    "ubigeo": "020601",
+    "longitud": -77.57527828151069,
+    "latitud": -9.233430625108952
+  },
+  {
+    "nombre": "Laguna 513",
+    "provincia": "Carhuaz",
+    "ubigeo": "020609",
+    "longitud": -77.54977580665809,
+    "latitud": -9.212134555406655
+  },
+  {
+    "nombre": "Desembocadura Del Río Santa",
+    "provincia": "Santa",
+    "ubigeo": "021808",
+    "longitud": -78.64275574415902,
+    "latitud": -8.975875534681293
+  },
+  {
+    "nombre": "Qhapaq Ñan - Tramo Piscobamba",
+    "provincia": "Mariscal Luzuriaga",
+    "ubigeo": "021301",
+    "longitud": -77.35380513634419,
+    "latitud": -8.857442239178457
+  },
+  {
+    "nombre": "Cañon De Paranco",
+    "provincia": "Mariscal Luzuriaga",
+    "ubigeo": "021306",
+    "longitud": -77.34358550150587,
+    "latitud": -8.950566275543883
+  },
+  {
+    "nombre": "Cueva De Los Piratas -Santa",
+    "provincia": "Santa",
+    "ubigeo": "021808",
+    "longitud": -78.65202350302265,
+    "latitud": -8.991532488119093
+  },
+  {
+    "nombre": "Acantilado La Olla",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.20847272872925,
+    "latitud": -9.968216596795665
+  },
+  {
+    "nombre": "Mirador La Catedral (Cachemero)",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.20883899472969,
+    "latitud": -9.969663758833205
+  },
+  {
+    "nombre": "Humedal De Nauchavana",
+    "provincia": "Pallasca",
+    "ubigeo": "021509",
+    "longitud": -77.85206049681848,
+    "latitud": -8.196220433266546
+  },
+  {
+    "nombre": "Plaza De Armas De Casma",
+    "provincia": "Casma",
+    "ubigeo": "020801",
+    "longitud": -78.30542922019,
+    "latitud": -9.476026933156
+  },
+  {
+    "nombre": "Mirador Natural Punta Callan",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.62051111111111,
+    "latitud": -9.545794444444445
+  },
+  {
+    "nombre": "Cerro Hualón",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.5737546,
+    "latitud": -9.5462712
+  },
+  {
+    "nombre": "Camino Prehispánico: Segmentos Urpay - Acopampa, Huilca - Punta Callán, Tramo Huaraz – Casma Del Qhapac Ñan",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.61846599861329,
+    "latitud": -9.546790251022133
+  },
+  {
+    "nombre": "Quebrada Weya Ruri",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.21092030405998,
+    "latitud": -9.636418977731688
+  },
+  {
+    "nombre": "Laguna Tishguyoc ",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.252343,
+    "latitud": -9.649375
+  },
+  {
+    "nombre": "Laguna Quepina",
+    "provincia": "Pallasca",
+    "ubigeo": "021509",
+    "longitud": -77.78057375758462,
+    "latitud": -8.185161457926315
+  },
+  {
+    "nombre": "Museo Nacional De Chavín",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.17743300000001,
+    "latitud": -9.576774
+  },
+  {
+    "nombre": "Quebrada Ishinca",
+    "provincia": "Huaraz",
+    "ubigeo": "020112",
+    "longitud": -77.53159700119521,
+    "latitud": -9.375713543482735
+  },
+  {
+    "nombre": "Laguna Patarcocha",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.35800862312318,
+    "latitud": -9.210941365669688
+  },
+  {
+    "nombre": "Quebrada Huantzan",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.30999951901,
+    "latitud": -9.515831546983
+  },
+  {
+    "nombre": "Quebrada Huallmish",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.24071025848,
+    "latitud": -9.647461655203
+  },
+  {
+    "nombre": "Sitio Arqueológico Sagrapetaca",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -76.94689968961188,
+    "latitud": -9.900420613626592
+  },
+  {
+    "nombre": "Fiesta Patronal De La Virgen De Las Mercedes De Jangas ",
+    "provincia": "Huaraz",
+    "ubigeo": "020106",
+    "longitud": -77.5768,
+    "latitud": -9.40143
+  },
+  {
+    "nombre": "Laguna Willcacocha Huaraz ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.53169506788254,
+    "latitud": -9.596576662090762
+  },
+  {
+    "nombre": "Laguna Auquiscocha",
+    "provincia": "Carhuaz",
+    "ubigeo": "020609",
+    "longitud": -77.55770449735056,
+    "latitud": -9.192693438604648
+  },
+  {
+    "nombre": "Cascada Bruja Armanan",
+    "provincia": "Carhuaz",
+    "ubigeo": "020601",
+    "longitud": -77.6495031,
+    "latitud": -9.273473
+  },
+  {
+    "nombre": "Quebrada Ulta",
+    "provincia": "Carhuaz",
+    "ubigeo": "020609",
+    "longitud": -77.53734444444444,
+    "latitud": -9.130627777777779
+  },
+  {
+    "nombre": "Petroglifo Piedra Del Diablo ",
+    "provincia": "Carhuaz",
+    "ubigeo": "020601",
+    "longitud": -77.63733174062473,
+    "latitud": -9.283719181307283
+  },
+  {
+    "nombre": "Playa Antivito",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.18853,
+    "latitud": -10.021885
+  },
+  {
+    "nombre": "Playa Hueco Romero",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.18012544582663,
+    "latitud": -10.038072891234533
+  },
+  {
+    "nombre": "Playa Boquerón De Manache",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.17570173949036,
+    "latitud": -10.067715669049264
+  },
+  {
+    "nombre": "Playa Reloj",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.18083998589198,
+    "latitud": -10.036453407888665
+  },
+  {
+    "nombre": "Playa La Pocita",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.19583415985107,
+    "latitud": -10.01371437098157
+  },
+  {
+    "nombre": "Playa Los Medanos",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.19416735642925,
+    "latitud": -10.001111076221298
+  },
+  {
+    "nombre": "Playa Los Perdidos",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.19694600526009,
+    "latitud": -9.994937812169097
+  },
+  {
+    "nombre": "Playa Maracaná",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.19136020370483,
+    "latitud": -10.019213937264892
+  },
+  {
+    "nombre": "Playa Marín",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.1844790787386,
+    "latitud": -10.03072196503637
+  },
+  {
+    "nombre": "Playa Salinas",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.17641831463985,
+    "latitud": -10.042938333848959
+  },
+  {
+    "nombre": "Pueblo De Yanama",
+    "provincia": "Yungay",
+    "ubigeo": "022008",
+    "longitud": -77.4930388657978,
+    "latitud": -9.021740605627643
+  },
+  {
+    "nombre": "Laguna Sacracocha",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.29774475097656,
+    "latitud": -9.190395207677788
+  },
+  {
+    "nombre": "Laguna Librón",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.4895871,
+    "latitud": -9.2058897
+  },
+  {
+    "nombre": "Mirador Potaca",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.5030236,
+    "latitud": -9.14103781
+  },
+  {
+    "nombre": "Laguna Gatita - Misha",
+    "provincia": "Pallasca",
+    "ubigeo": "021509",
+    "longitud": -77.7774109,
+    "latitud": -8.1447374
+  },
+  {
+    "nombre": "Laguna Tsaquicocha",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.44263774160795,
+    "latitud": -9.54666592982292
+  },
+  {
+    "nombre": "Baños Termales De Pachin",
+    "provincia": "Carhuaz",
+    "ubigeo": "020606",
+    "longitud": -77.57485985755922,
+    "latitud": -9.31994304251358
+  },
+  {
+    "nombre": "Laguna De Tuctubamba",
+    "provincia": "Pallasca",
+    "ubigeo": "021501",
+    "longitud": -77.90790576810255,
+    "latitud": -8.364419212301586
+  },
+  {
+    "nombre": "Laguna Tururu",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.39235296908402,
+    "latitud": -9.549028337431436
+  },
+  {
+    "nombre": "Laguna Pushan",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.3913708132629,
+    "latitud": -9.560212295339504
+  },
+  {
+    "nombre": "Laguna Misacocha ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.39394573391719,
+    "latitud": -9.557889826104438
+  },
+  {
+    "nombre": "Playa La Cocinita",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.20043791861907,
+    "latitud": -9.98947212397852
+  },
+  {
+    "nombre": "Laguna Allicocha",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.4600721,
+    "latitud": -9.25120405
+  },
+  {
+    "nombre": "Laguna Cancaragá",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.50687122344972,
+    "latitud": -9.141630383332776
+  },
+  {
+    "nombre": "Laguna Bayococha",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.44423636,
+    "latitud": -9.25501064
+  },
+  {
+    "nombre": "Laguna Belaunde",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.50478985,
+    "latitud": -9.13834035
+  },
+  {
+    "nombre": "Aguas Termales De Cochaconchucos",
+    "provincia": "Pallasca",
+    "ubigeo": "021509",
+    "longitud": -77.881192958541,
+    "latitud": -8.251179184864718
+  },
+  {
+    "nombre": "Catedral De Huaraz",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.52839863300323,
+    "latitud": -9.530159755882048
+  },
+  {
+    "nombre": "Laguna Huachucocha",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020701",
+    "longitud": -77.23706245422363,
+    "latitud": -9.168026076288069
+  },
+  {
+    "nombre": "Playa Corcovao - Puerto Huarmey",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.16934398978718,
+    "latitud": -10.09740224341004
+  },
+  {
+    "nombre": "Duna Longitudinal De Manchán",
+    "provincia": "Casma",
+    "ubigeo": "020801",
+    "longitud": -78.28641772270204,
+    "latitud": -9.496704390841396
+  },
+  {
+    "nombre": "Quebrada Tuctubamba",
+    "provincia": "Pomabamba",
+    "ubigeo": "021602",
+    "longitud": -77.51345057917011,
+    "latitud": -8.914643979877582
+  },
+  {
+    "nombre": "Laguna Tullpacocha ",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.34147548675537,
+    "latitud": -9.41963908971426
+  },
+  {
+    "nombre": "Laguna Wicrococha",
+    "provincia": "Mariscal Luzuriaga",
+    "ubigeo": "021307",
+    "longitud": -77.51423919287042,
+    "latitud": -8.926838386541176
+  },
+  {
+    "nombre": "Laguna De Cuchillacocha",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.353835105896,
+    "latitud": -9.410536583830348
+  },
+  {
+    "nombre": "Nevado Pucaranra",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.35030555555556,
+    "latitud": -9.3891667
+  },
+  {
+    "nombre": "Nevado Tullparaju",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.31672100000003,
+    "latitud": -9.399682
+  },
+  {
+    "nombre": "Manantial Agüita De Curayacu.",
+    "provincia": "Pomabamba",
+    "ubigeo": "021601",
+    "longitud": -77.45868129278897,
+    "latitud": -8.81722969293607
+  },
+  {
+    "nombre": "Laguna Palcacocha ",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.37945556640625,
+    "latitud": -9.396903545405582
+  },
+  {
+    "nombre": "Laguna Radían",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.50918933400726,
+    "latitud": -9.44415613304182
+  },
+  {
+    "nombre": "Cascada  De Chekza - Independencia  ",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.53543726101034,
+    "latitud": -9.46470255285936
+  },
+  {
+    "nombre": "Templo San Francisco De Mangas, Atrio Frontal Y Torre Campanario Exenta.",
+    "provincia": "Bolognesi",
+    "ubigeo": "020512",
+    "longitud": -77.10361630951586,
+    "latitud": -10.368913977613435
+  },
+  {
+    "nombre": "Baños Termales De Huancarhuaz",
+    "provincia": "Huaylas",
+    "ubigeo": "021208",
+    "longitud": -77.78440010713477,
+    "latitud": -8.942247158909655
+  },
+  {
+    "nombre": "Punta Olímpica (Sector I- Shilla)",
+    "provincia": "Carhuaz",
+    "ubigeo": "020609",
+    "longitud": -77.51579761852233,
+    "latitud": -9.12825172238315
+  },
+  {
+    "nombre": "Nevado Contrahierbas - Pico Mateo",
+    "provincia": "Carhuaz",
+    "ubigeo": "020609",
+    "longitud": -77.48343223586424,
+    "latitud": -9.087461435297412
+  },
+  {
+    "nombre": "Laguna Mullaca",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.47580520117243,
+    "latitud": -9.431958251576232
+  },
+  {
+    "nombre": "Piscicultura De La Dirección Sub-Regional De Producción - Huaraz",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.52129406419425,
+    "latitud": -9.524952843330212
+  },
+  {
+    "nombre": "Pueblo Artesanal De Chacas.",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.36768632926591,
+    "latitud": -9.163173844473418
+  },
+  {
+    "nombre": "Plaza De Armas Ugo De Censi",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.36603187,
+    "latitud": -9.16210224
+  },
+  {
+    "nombre": "Ciudadela De Shajshas-Mesa Rumi",
+    "provincia": "Sihuas",
+    "ubigeo": "021909",
+    "longitud": -77.54565864801407,
+    "latitud": -8.674419605492997
+  },
+  {
+    "nombre": "Zona Arqueológica Monumental Las Aldas",
+    "provincia": "Casma",
+    "ubigeo": "020801",
+    "longitud": -78.296521,
+    "latitud": -9.70203
+  },
+  {
+    "nombre": "Museo Arqueológico Zonal De Cabana",
+    "provincia": "Pallasca",
+    "ubigeo": "021501",
+    "longitud": -78.00947376819931,
+    "latitud": -8.392867870202394
+  },
+  {
+    "nombre": "Quebrada Uquián - Treck Chavín De Huantar - Olleros",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.409338,
+    "latitud": -9.662604
+  },
+  {
+    "nombre": "Mirador De Montebello",
+    "provincia": "Recuay",
+    "ubigeo": "021710",
+    "longitud": -77.44709977617264,
+    "latitud": -9.75916123192384
+  },
+  {
+    "nombre": "Monumento Histórico Puente  Calicanto “San Gerónimo” - Huaraz",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.53573266686244,
+    "latitud": -9.527026853911302
+  },
+  {
+    "nombre": "Pueblo De Huari",
+    "provincia": "Huari",
+    "ubigeo": "021001",
+    "longitud": -77.1713993,
+    "latitud": -9.3478304
+  },
+  {
+    "nombre": "Mirador Cerro De La Juventud",
+    "provincia": "Santa",
+    "ubigeo": "021801",
+    "longitud": -78.62709701437029,
+    "latitud": -9.058782218279092
+  },
+  {
+    "nombre": "Mirador Señor De Catay",
+    "provincia": "Carhuaz",
+    "ubigeo": "020609",
+    "longitud": -77.60843309067819,
+    "latitud": -9.215916191923608
+  },
+  {
+    "nombre": "Laguna Pampacocha",
+    "provincia": "Huaylas",
+    "ubigeo": "021201",
+    "longitud": -77.78148981877317,
+    "latitud": -8.993017382944416
+  },
+  {
+    "nombre": "Sitio Arqueológico De Pashas",
+    "provincia": "Pallasca",
+    "ubigeo": "021501",
+    "longitud": -78.01104354851417,
+    "latitud": -8.402158611420667
+  },
+  {
+    "nombre": "Museo Arqueológico De Las Tecnologías Andinas",
+    "provincia": "Santa",
+    "ubigeo": "021805",
+    "longitud": -78.1775951385498,
+    "latitud": -9.13903519541451
+  },
+  {
+    "nombre": "Las Loberas De Nuevo Chimbote",
+    "provincia": "Santa",
+    "ubigeo": "021809",
+    "longitud": -78.57573688030243,
+    "latitud": -9.211592680536285
+  },
+  {
+    "nombre": "Plaza Mayor De Nuevo Chimbote",
+    "provincia": "Santa",
+    "ubigeo": "021809",
+    "longitud": -78.53107202754022,
+    "latitud": -9.122135030353114
+  },
+  {
+    "nombre": "Rocódromo San Marcos",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.152697,
+    "latitud": -9.525036
+  },
+  {
+    "nombre": "Playa Puerto De Santa",
+    "provincia": "Santa",
+    "ubigeo": "021808",
+    "longitud": -78.64984291682357,
+    "latitud": -8.990567031187492
+  },
+  {
+    "nombre": "Nevado Chaupijanca",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -77.00732619203951,
+    "latitud": -10.00204101962815
+  },
+  {
+    "nombre": "Baños Termales De Olleros",
+    "provincia": "Huaraz",
+    "ubigeo": "020108",
+    "longitud": -77.46324872546734,
+    "latitud": -9.668517264166487
+  },
+  {
+    "nombre": "Sendero María Josefa",
+    "provincia": "Yungay",
+    "ubigeo": "022001",
+    "longitud": -77.66904709739893,
+    "latitud": -9.09452598739932
+  },
+  {
+    "nombre": "Centro Ecológico De Huanchac - Huari.",
+    "provincia": "Huari",
+    "ubigeo": "021001",
+    "longitud": -77.16617300000001,
+    "latitud": -9.365002
+  },
+  {
+    "nombre": "Isla Erizo",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.2006321573005,
+    "latitud": -9.992855956340588
+  },
+  {
+    "nombre": "Centro Poblado De Acopalca",
+    "provincia": "Huari",
+    "ubigeo": "021001",
+    "longitud": -77.1850277777778,
+    "latitud": -9.3273611
+  },
+  {
+    "nombre": "Pueblo De San Luís",
+    "provincia": "Carlos Fermin Fitzcarrald",
+    "ubigeo": "020701",
+    "longitud": -77.32904940493599,
+    "latitud": -9.094343199936173
+  },
+  {
+    "nombre": "Sitio Arqueológico De Tapapunta",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.56330108106577,
+    "latitud": -9.449137103723926
+  },
+  {
+    "nombre": "Laguna Ahuac ",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.48491961968514,
+    "latitud": -9.454225293253922
+  },
+  {
+    "nombre": "Pueblo De Huasta",
+    "provincia": "Bolognesi",
+    "ubigeo": "020509",
+    "longitud": -77.14630555555556,
+    "latitud": -10.1237222
+  },
+  {
+    "nombre": "Catarata Gontanga",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.32847338,
+    "latitud": -9.17780076
+  },
+  {
+    "nombre": "Quebrada Potaca",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.48306747,
+    "latitud": -9.14406248
+  },
+  {
+    "nombre": "Museo Arqueológico De Chacas",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.3661521,
+    "latitud": -9.1625166
+  },
+  {
+    "nombre": "Plaza De Armas De Chavín De Huántar ",
+    "provincia": "Huari",
+    "ubigeo": "021004",
+    "longitud": -77.178012,
+    "latitud": -9.589651
+  },
+  {
+    "nombre": "Catarata Paccha Jircan",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.17511745,
+    "latitud": -9.65918456
+  },
+  {
+    "nombre": "Mirador Pumawilca",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.208588,
+    "latitud": -9.555578
+  },
+  {
+    "nombre": "Sitio Arqueológico De Huacramarca",
+    "provincia": "Asuncion",
+    "ubigeo": "020401",
+    "longitud": -77.4332343,
+    "latitud": -9.1763081
+  },
+  {
+    "nombre": "Mirador Natural 24 De Junio",
+    "provincia": "Huaraz",
+    "ubigeo": "020105",
+    "longitud": -77.5137242,
+    "latitud": -9.52447254
+  },
+  {
+    "nombre": "Iglesia San Juan Bautista",
+    "provincia": "Pallasca",
+    "ubigeo": "021508",
+    "longitud": -77.99902150993982,
+    "latitud": -8.253469068217704
+  },
+  {
+    "nombre": "Cascada De Aguaytoro",
+    "provincia": "Pallasca",
+    "ubigeo": "021508",
+    "longitud": -77.958579,
+    "latitud": -8.252133
+  },
+  {
+    "nombre": "Cañon De Huagtahuaru",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -76.90472199999999,
+    "latitud": -9.867778
+  },
+  {
+    "nombre": "Sitio Arqueológico Castillo De Cuymalca",
+    "provincia": "Pallasca",
+    "ubigeo": "021508",
+    "longitud": -78.009105,
+    "latitud": -8.255762
+  },
+  {
+    "nombre": "Catarata Valdivia",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.115933,
+    "latitud": -9.530378
+  },
+  {
+    "nombre": "Catarata De Opayaco",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.140258,
+    "latitud": -9.485956
+  },
+  {
+    "nombre": "Mirador De Pirurupunta",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.128664,
+    "latitud": -9.517881
+  },
+  {
+    "nombre": "Laguna De Gochapatac",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.166139,
+    "latitud": -9.671739
+  },
+  {
+    "nombre": "Pueblo De Carash",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.138307,
+    "latitud": -9.529106
+  },
+  {
+    "nombre": "Playa El Dorado",
+    "provincia": "Santa",
+    "ubigeo": "021809",
+    "longitud": -78.5655927658081,
+    "latitud": -9.187641508227294
+  },
+  {
+    "nombre": " Sitio Arqueologico De Palma Cruz",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.11744141386416,
+    "latitud": -9.539305734519733
+  },
+  {
+    "nombre": "Caleta Colorada",
+    "provincia": "Santa",
+    "ubigeo": "021809",
+    "longitud": -78.55997085571289,
+    "latitud": -9.199461082231645
+  },
+  {
+    "nombre": "Dunas De Huamanchacate",
+    "provincia": "Santa",
+    "ubigeo": "021803",
+    "longitud": -78.60936641693115,
+    "latitud": -9.013776463334613
+  },
+  {
+    "nombre": "Mirador Natural Huacatuna",
+    "provincia": "Huari",
+    "ubigeo": "021009",
+    "longitud": -77.130042,
+    "latitud": -9.372236
+  },
+  {
+    "nombre": "Sitio Arqueológico De Markajirca",
+    "provincia": "Huari",
+    "ubigeo": "021009",
+    "longitud": -77.130042,
+    "latitud": -9.372236
+  },
+  {
+    "nombre": "Sitio Arqueológico De Gantu",
+    "provincia": "Huari",
+    "ubigeo": "021009",
+    "longitud": -77.087418,
+    "latitud": -9.320745
+  },
+  {
+    "nombre": "Laguna Shecllapata",
+    "provincia": "Recuay",
+    "ubigeo": "021701",
+    "longitud": -77.44699,
+    "latitud": -9.712058
+  },
+  {
+    "nombre": "Bosque De Piedra Anqomache",
+    "provincia": "Recuay",
+    "ubigeo": "021701",
+    "longitud": -77.52029125345551,
+    "latitud": -9.692258898152172
+  },
+  {
+    "nombre": "Catarata Chiurán",
+    "provincia": "Santa",
+    "ubigeo": "021802",
+    "longitud": -78.0734395980835,
+    "latitud": -8.984995651901189
+  },
+  {
+    "nombre": "Malecón Grau",
+    "provincia": "Santa",
+    "ubigeo": "021801",
+    "longitud": -78.59511852264404,
+    "latitud": -9.077401881881185
+  },
+  {
+    "nombre": "Playa Los Chimus- Samanco",
+    "provincia": "Santa",
+    "ubigeo": "021807",
+    "longitud": -78.4726274013519,
+    "latitud": -9.3228015772561
+  },
+  {
+    "nombre": "Playa El Enrocado",
+    "provincia": "Santa",
+    "ubigeo": "021807",
+    "longitud": -78.4945249557495,
+    "latitud": -9.254116173231395
+  },
+  {
+    "nombre": "Playa Vesique",
+    "provincia": "Santa",
+    "ubigeo": "021807",
+    "longitud": -78.4836888313293,
+    "latitud": -9.20964932286897
+  },
+  {
+    "nombre": "Manantial  Puquio Pipi",
+    "provincia": "Santa",
+    "ubigeo": "021806",
+    "longitud": -78.3511877059936,
+    "latitud": -9.16250771667757
+  },
+  {
+    "nombre": "Casa Hacienda Garatea ",
+    "provincia": "Santa",
+    "ubigeo": "021808",
+    "longitud": -78.6027788547734,
+    "latitud": -8.99396176067179
+  },
+  {
+    "nombre": "Playa Caleta De Coishco",
+    "provincia": "Santa",
+    "ubigeo": "021803",
+    "longitud": -78.6220908164978,
+    "latitud": -9.01797259055676
+  },
+  {
+    "nombre": "Catarata De Hornillos",
+    "provincia": "Santa",
+    "ubigeo": "021805",
+    "longitud": -78.0588805675506,
+    "latitud": -9.10696982534541
+  },
+  {
+    "nombre": "Catedral De La Diócesis De Chimbote",
+    "provincia": "Santa",
+    "ubigeo": "021809",
+    "longitud": -78.5307669639587,
+    "latitud": -9.12117555293488
+  },
+  {
+    "nombre": "Mirador Turístico De Coishco",
+    "provincia": "Santa",
+    "ubigeo": "021803",
+    "longitud": -78.61284,
+    "latitud": -9.01886
+  },
+  {
+    "nombre": "Cascada De Huitrón - Sihuas",
+    "provincia": "Sihuas",
+    "ubigeo": "021901",
+    "longitud": -77.62383292744282,
+    "latitud": -8.553013527784865
+  },
+  {
+    "nombre": "Complejo Recreacional Rupaj - Sihuas",
+    "provincia": "Sihuas",
+    "ubigeo": "021901",
+    "longitud": -77.56042098934358,
+    "latitud": -8.595053744552462
+  },
+  {
+    "nombre": "Quebrada Rurec - Parque Nacional Huascarán",
+    "provincia": "Huaraz",
+    "ubigeo": "020108",
+    "longitud": -77.34658223046483,
+    "latitud": -9.587155102512813
+  },
+  {
+    "nombre": "Quebrada Cashan - Parque Nacional Huascarán ",
+    "provincia": "Huaraz",
+    "ubigeo": "020108",
+    "longitud": -77.38695676970268,
+    "latitud": -9.578989666893603
+  },
+  {
+    "nombre": "Quebrada Shallap Parque Nacional Huascarán)",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.36369371853444,
+    "latitud": -9.496281266103763
+  },
+  {
+    "nombre": "Laguna Antacocha - Recuay",
+    "provincia": "Recuay",
+    "ubigeo": "021701",
+    "longitud": -77.4943639,
+    "latitud": -9.7038644
+  },
+  {
+    "nombre": "Laguna Rajucolta - Parque Nacional Huascarán  ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.3422756594543,
+    "latitud": -9.523016684397849
+  },
+  {
+    "nombre": "Laguna Shallap - Parque Nacional Huascarán",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.35652011255596,
+    "latitud": -9.49250002776546
+  },
+  {
+    "nombre": "Mirador Boca Del Sapo",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.51408455790323,
+    "latitud": -9.545132870251022
+  },
+  {
+    "nombre": "Plaza De Armas De Huaraz ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.52888766945644,
+    "latitud": -9.530095289539085
+  },
+  {
+    "nombre": "Quebrada  Cayesh - Parque Nacional Huascarán ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.33581932828805,
+    "latitud": -9.448113059724434
+  },
+  {
+    "nombre": "Nevado Humashraju  - Parque Nacional Huascarán ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.38529205322266,
+    "latitud": -9.524914302345877
+  },
+  {
+    "nombre": "Nevado Huantsán - Parque Nacional Huascarán ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.31010437011719,
+    "latitud": -9.515772260350987
+  },
+  {
+    "nombre": "Nevado Cayesh - Parque Nacional Huascarán ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.31155206387554,
+    "latitud": -9.463956834814669
+  },
+  {
+    "nombre": "Sitio Arqueológico Pashas-Campanario",
+    "provincia": "Sihuas",
+    "ubigeo": "021901",
+    "longitud": -77.62743158410935,
+    "latitud": -8.532842880150808
+  },
+  {
+    "nombre": "Laguna Azulcocha - Parque Nacional Huascarán ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.40022650739407,
+    "latitud": -9.530418191405683
+  },
+  {
+    "nombre": "Cascada Gaganani",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -76.92505778329762,
+    "latitud": -9.883211661416048
+  },
+  {
+    "nombre": "Cascada Sheglla",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -76.92501875681234,
+    "latitud": -9.891599850160276
+  },
+  {
+    "nombre": "Baños Termales De Azulmina",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -76.96195814329744,
+    "latitud": -9.937158456530053
+  },
+  {
+    "nombre": "Laguna Cochahuaín ",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -76.97785472446026,
+    "latitud": -9.990072270954945
+  },
+  {
+    "nombre": "Laguna Bayococha - Parque Nacional Huascarán ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.39519482923579,
+    "latitud": -9.524880498035655
+  },
+  {
+    "nombre": "Sitio Arqueológico Tumbas De Jancu - Huaraz",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.43570236386104,
+    "latitud": -9.5225934447626
+  },
+  {
+    "nombre": "Mirador Pumacoto - Sihuas",
+    "provincia": "Sihuas",
+    "ubigeo": "021904",
+    "longitud": -77.63366389991283,
+    "latitud": -8.558582067423222
+  },
+  {
+    "nombre": "Iglesia Colonial Santísima Virgen María De Las Nieves - Sihuas",
+    "provincia": "Sihuas",
+    "ubigeo": "021901",
+    "longitud": -77.62532194638398,
+    "latitud": -8.557471897691663
+  },
+  {
+    "nombre": "Lagunas Huachuacocha - Sihuas",
+    "provincia": "Sihuas",
+    "ubigeo": "021908",
+    "longitud": -77.71108974201049,
+    "latitud": -8.440640464050531
+  },
+  {
+    "nombre": "Laguna Berracococha",
+    "provincia": "Sihuas",
+    "ubigeo": "021904",
+    "longitud": -77.70009716450518,
+    "latitud": -8.597933689339714
+  },
+  {
+    "nombre": "Laguna Callampita- Sihuas",
+    "provincia": "Sihuas",
+    "ubigeo": "021908",
+    "longitud": -77.68187363380059,
+    "latitud": -8.463914467263724
+  },
+  {
+    "nombre": "Laguna Turquesa",
+    "provincia": "Corongo",
+    "ubigeo": "020905",
+    "longitud": -77.918039,
+    "latitud": -8.684658
+  },
+  {
+    "nombre": "Laguna San Diego",
+    "provincia": "Casma",
+    "ubigeo": "020803",
+    "longitud": -78.35200309753418,
+    "latitud": -9.497656751369938
+  },
+  {
+    "nombre": "Laguna Rocotuyoc - Quebrada Honda",
+    "provincia": "Carhuaz",
+    "ubigeo": "020606",
+    "longitud": -77.452579,
+    "latitud": -9.282535
+  },
+  {
+    "nombre": "Laguna Contaycocha",
+    "provincia": "Bolognesi",
+    "ubigeo": "020508",
+    "longitud": -76.98859428935589,
+    "latitud": -9.868063127364394
+  },
+  {
+    "nombre": "Monumento Arqueológico: Mausoleo Imperial El Castillo De Huarmey",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -78.13811917645924,
+    "latitud": -10.063189464715807
+  },
+  {
+    "nombre": "Playa La Perú",
+    "provincia": "Huarmey",
+    "ubigeo": "021103",
+    "longitud": -78.22653,
+    "latitud": -9.94152
+  },
+  {
+    "nombre": "Cascadas De Quilcap",
+    "provincia": "Huarmey",
+    "ubigeo": "021101",
+    "longitud": -77.76952790134673,
+    "latitud": -9.882485153282532
+  },
+  {
+    "nombre": "Laguna Almacocha ",
+    "provincia": "Huaraz",
+    "ubigeo": "020101",
+    "longitud": -77.43619354338689,
+    "latitud": -9.576190084464287
+  },
+  {
+    "nombre": "Casona De La Familia Berrospi",
+    "provincia": "Carhuaz",
+    "ubigeo": "020601",
+    "longitud": -77.64545235590589,
+    "latitud": -9.281431537992788
+  },
+  {
+    "nombre": "Quebrada Shaqsha",
+    "provincia": "Huaraz",
+    "ubigeo": "020108",
+    "longitud": -77.4001619,
+    "latitud": -9.5882448
+  },
+  {
+    "nombre": "Laguna Huallcacocha",
+    "provincia": "Carhuaz",
+    "ubigeo": "020609",
+    "longitud": -77.5439,
+    "latitud": -9.16194
+  },
+  {
+    "nombre": "Mirador Llanllapu",
+    "provincia": "Carhuaz",
+    "ubigeo": "020601",
+    "longitud": -77.664059932788,
+    "latitud": -9.286584426328279
+  },
+  {
+    "nombre": "Laguna Chaupincocha",
+    "provincia": "Pallasca",
+    "ubigeo": "021508",
+    "longitud": -77.95745,
+    "latitud": -8.2839922
+  },
+  {
+    "nombre": "Iglesia Purhuay",
+    "provincia": "Sihuas",
+    "ubigeo": "021907",
+    "longitud": -77.46022113624574,
+    "latitud": -8.341870945241874
+  },
+  {
+    "nombre": "Mirador Callas Pampa ",
+    "provincia": "Huari",
+    "ubigeo": "021014",
+    "longitud": -77.11409,
+    "latitud": -9.513955
+  }
+]

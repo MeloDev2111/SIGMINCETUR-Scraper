@@ -1,4 +1,5 @@
 #!/usr/bin / env node
+require('dotenv').config(); // Load environment variables
 const fs = require('fs');
 const path = require('path');
 const yargs = require('yargs/yargs');

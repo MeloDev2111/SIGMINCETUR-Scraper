@@ -2,6 +2,8 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
+require('dotenv').config(); // Load environment variables
+
 const client = require('../core/client');
 const scraper = require('../core/scraper');
 const adapter = require('../core/turi_adapter');
@@ -11,7 +13,9 @@ const { ensureDirectoryExistence } = require('../core/utils');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(express.json());
+// Increase body size limit to handle large scrape datasets
+app.use(express.json({ limit: '50mb' }));
+app.use(express.urlencoded({ limit: '50mb', extended: true }));
 app.use(express.static(path.join(__dirname, 'public')));
 
 
@@ -65,10 +69,18 @@ app.post('/api/scrape', async (req, res) => {
 
     try {
         const data = await scraper.scrape(region, { province });
+
+        // Save to data/raw/data.json automatically
+        const rawPath = path.join(process.cwd(), 'data', 'raw', 'data.json');
+        ensureDirectoryExistence(rawPath);
+        fs.writeFileSync(rawPath, JSON.stringify(data, null, 2));
+        console.log(`Saved ${data.length} items to ${rawPath}`);
+
         res.json({
             success: true,
             count: data.length,
-            data: data
+            data: data,
+            savedPath: rawPath
         });
     } catch (error) {
         console.error('Scrape error:', error);

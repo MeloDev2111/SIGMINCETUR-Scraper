@@ -8,6 +8,7 @@
     "scrape": "node src/cli/index.js",
     "scrape:help": "node src/cli/index.js --help",
     "changelog": "auto-changelog -p",
+    "test": "jest",
     "release": "release-it"
   },
   "repository": {
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/MeloDev2111/SIGMINCETUR-Scraper#readme",
   "dependencies": {
     "auto-changelog": "^2.5.0",
+    "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "form-data": "^4.0.5",
     "node-fetch": "^3.3.2",
@@ -30,6 +32,7 @@
     "yargs": "^18.0.0"
   },
   "devDependencies": {
-    "@release-it/conventional-changelog": "^10.0.5"
+    "@release-it/conventional-changelog": "^10.0.5",
+    "jest": "^30.2.0"
   }
 }
