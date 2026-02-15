@@ -1,6 +1,6 @@
 {
   "name": "sigmincetur-scraper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Modern SIGMINCETUR Scraper with CLI, Web Dashboard, and Local App integration.",
   "main": "src/cli/index.js",
   "scripts": {
